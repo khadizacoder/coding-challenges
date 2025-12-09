@@ -1,0 +1,24 @@
+===============================
+DATE: 9-12-2025
+===============================
+
+📌 Problem:
+• Link: https://www.codechef.com/problems/TRICOIN
+• Platform: codechef
+• Difficulty Level: Beginner Level
+
+📝 Summary:
+
+
+⏱️ Complexity:
+• Time: O(n)
+• Space: O(1)
+
+🎯 Key Learning:
+recap
+
+📁 Solution Code:
+Language: C++
+
+✔ Status:
+Solved

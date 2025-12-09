@@ -1,0 +1,25 @@
+===============================
+DATE: 9-12-2025
+===============================
+
+📌 Problem:
+• Link: https://www.codechef.com/problems/TRICOIN
+• Link: https://www.codechef.com/problems/SANDWSHOP
+• Platform: codechef
+• Difficulty Level: Beginner Level
+
+📝 Summary:
+(সমস্যা কী চেয়েছে—১/২ লাইনে)
+
+⏱️ Complexity:
+• Time: O(n)
+• Space: O(1)
+
+🎯 Key Learning:
+recap
+
+📁 Solution Code:
+Language: C++
+
+✔ Status:
+Solved
