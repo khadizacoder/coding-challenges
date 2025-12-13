@@ -3,9 +3,8 @@ DATE: 9-12-2025
 ===============================
 
 📌 Problem:
-• Link: https://www.codechef.com/problems/TRICOIN
-• Link: https://www.codechef.com/problems/SANDWSHOP
-• Platform: codechef
+• Topic: ARRAYS (Sum, Max, Min, Count)
+• Platform: HackerRank, Codeforces
 • Difficulty Level: Beginner Level
 
 📝 Summary:
