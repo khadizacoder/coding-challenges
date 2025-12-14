@@ -1,18 +1,19 @@
 ===============================
-DATE: 9-12-2025
+DATE: 14-12-2025
 ===============================
 
 📌 Problem:
-• Topic: ARRAYS (Sum, Max, Min, Count)
+• Topic: Frequency & Counting (Contest Style)
 • Platform: HackerRank, Codeforces
 • Difficulty Level: Beginner Level
 
 📝 Summary:
 (সমস্যা কী চেয়েছে—১/২ লাইনে)
 
-⏱️ Complexity:
-• Time: O(n)
-• Space: O(1)
+⏱️ Goal:
+• Array/Map/Set frequency counting
+• Simple counting + logic patterns
+• 10 BASE problems
 
 🎯 Key Learning:
 recap
