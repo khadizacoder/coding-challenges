@@ -1,0 +1,25 @@
+===============================
+DATE: 29-12-2025
+===============================
+
+📌 Problem:
+• Topic: Prifix sum and Binary sum practice (Contest Style)
+• Platform: HackerRank, Codeforces
+• Difficulty Level: Beginner And Medium And Hard Level
+
+📝 Summary:
+(সমস্যা কী চেয়েছে—১/২ লাইনে)
+
+⏱️ Goal:
+• Array/Map/Set frequency counting
+• Simple counting + logic patterns
+• 10 BASE problems
+
+🎯 Key Learning:
+Practice
+
+📁 Solution Code:
+Language: C++
+
+✔ Status:
+Solved
